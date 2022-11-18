@@ -1,6 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/sample/framework/sample_base_framework/BuildConfig.java
- com.sample.framework.sample_base_framework.BuildConfig
-com/sample/framework/sample_base_framework/MainActivity.java
- com.sample.framework.sample_base_framework.MainActivity
