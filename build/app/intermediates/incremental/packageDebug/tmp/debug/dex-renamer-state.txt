@@ -1,0 +1,4 @@
+#Fri Sep 23 12:11:11 IST 2022
+base.0=/Users/apple/Downloads/sample_base_framework/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
